@@ -30,48 +30,48 @@
 ## ML Projects
 
 <a href="https://github.com/pollmix/pytorch-chatbot">
-  <img src="https://img.shields.io/badge/Sentiment Analysis-white?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=black" />
+  <img src="https://img.shields.io/badge/Sentiment Analysis-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/pollmix/sentiment-analysis">
-  <img src="https://img.shields.io/badge/Fake Handwritten Digits-white?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=black" />
+  <img src="https://img.shields.io/badge/Fake Handwritten Digits-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/pollmix/fake-handwritten-digits">
-  <img src="https://img.shields.io/badge/Chatbot-white?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=black" />
+  <img src="https://img.shields.io/badge/Chatbot-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/pollmix/ai-translation">
-  <img src="https://img.shields.io/badge/AI Translation-white?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=black" />
+  <img src="https://img.shields.io/badge/AI Translation-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/pollmix/predict-language-of-a-name">
-  <img src="https://img.shields.io/badge/Predict Language Of A Name-white?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=black" />
+  <img src="https://img.shields.io/badge/Predict Language Of A Name-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/pollmix/covid-detection-from-xray">
-  <img src="https://img.shields.io/badge/COVID Detection From Xray-white?style=flat&logo=pytorch&logoColor=EE4C2C&labelColor=black" />
+  <img src="https://img.shields.io/badge/COVID Detection From Xray-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/pollmix/covid-tracking-using-r">
-  <img src="https://img.shields.io/badge/COVID Tracking-white?style=flat&logo=r&logoColor=276DC3&labelColor=black" />
+  <img src="https://img.shields.io/badge/COVID Tracking-white?style=flat&logo=r&logoColor=white&labelColor=276DC3" />
 </a>
 
 <a href="https://github.com/pollmix/covid-tracking-using-r">
-  <img src="https://img.shields.io/badge/COVID Data Analysis-white?style=flat&logo=r&logoColor=276DC3&labelColor=black" />
+  <img src="https://img.shields.io/badge/COVID Data Analysis-white?style=flat&logo=r&logoColor=white&labelColor=276DC3" />
 </a>
 
 ## Web Projects
 <!-- <a href="https://github.com/pollmix/bangla-quran">
-  <img src="https://img.shields.io/badge/Quran | Arabic and Bangla translation of whole Quran with audio-ffffff?style=flat&logo=revealdotjs&logoColor=F2E142&labelColor=black" />
+  <img src="https://img.shields.io/badge/Quran | Arabic and Bangla translation of whole Quran with audio-ffffff?style=flat&logo=revealdotjs&logoColor=F2E142&labelColor=EE4C2C" />
 </a>
 
 <a href="https://www.volueinsight.com/">
-  <img src="https://img.shields.io/badge/Wattsight | Forecasts and Consulting for the European Energy Market-ffffff?style=flat&logo=python&logoColor=3776AB&labelColor=black" />
+  <img src="https://img.shields.io/badge/Wattsight | Forecasts and Consulting for the European Energy Market-ffffff?style=flat&logo=python&logoColor=3776AB&labelColor=EE4C2C" />
 </a>
 
 <a href="https://www.seebiz.com/">
-  <img src="https://img.shields.io/badge/SeeBiz | Business Social Network-ffffff?style=flat&logo=react&logoColor=61DAFB&labelColor=black" />
+  <img src="https://img.shields.io/badge/SeeBiz | Business Social Network-ffffff?style=flat&logo=react&logoColor=61DAFB&labelColor=EE4C2C" />
 </a> -->
 
 - Quran | Arabic and Bangla translation of whole Quran with audio
