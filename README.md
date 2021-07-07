@@ -62,39 +62,15 @@
 </a>
 
 ## Web Projects
-
-<a href="https://github.com/pollmix/bangla-quran">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=revealdotjs&logoColor=white&label=Quran&labelColor=F2E142&message=Arabic and Bangla translation of whole Quran with audio&color=white" />
-</a>
-
-<a href="https://www.volueinsight.com/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=python&logoColor=white&label=Wattsight&labelColor=3776AB&message=Forecasts and Consulting for the European Energy Market&color=white" />
-</a>
-
-<a href="https://www.seebiz.com/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=react&logoColor=white&label=SeeBiz&labelColor=61DAFB&message=Business Social Network&color=white" />
-</a>
-
-<a href="https://devtut.github.io/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=vuedotjs&logoColor=white&label=DevTut&labelColor=4FC08D&message=Example based programming tutorials&color=white" />
-</a>
-
-<a href="https://code.imranpollob.com/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=nextdotjs&logoColor=white&label=Coding&labelColor=000000&message=LeetCode HackerRank Codewars CodeSignal solutions&color=white" />
-</a>
-
-<a href="https://spelling-test.netlify.app/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=react&logoColor=white&label=Spelling Quiz&labelColor=61DAFB&message=Learn difficult English spelling though quiz&color=white" />
-</a>
-
-<a href="http://paste.imranpollob.com/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=laravel&logoColor=white&label=Paste Online&labelColor=FF2D20&message=Store and share notes&color=white" />
-</a>
-
-<a href="https://github.com/pollmix/movie-scrapper">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=python&logoColor=white&label=Movie Rating&labelColor=3776AB&message=Movie scrapper and rating API&color=white" />
-</a>
-
-<a href="https://github.com/pollmix/link-sharer">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=laravel&logoColor=white&label=Top Links&labelColor=FF2D20&message=Community based link sharing platform&color=white" />
-</a>
+- Quran | Arabic and Bangla translation of whole Quran with audio
+- Wattsight | Forecasts and Consulting for the European Energy Market
+- SeeBiz | Inventory Management System with business social network
+- DevTut | Collection of example based programming tutorials on 45+ topics
+- Coding | LeetCode HackerRank Codewars CodeSignal solutions
+- Spelling Quiz | Learn difficult English spelling though quiz
+- Notepad | Store and share notes
+- Movie Rating | Movie scrapper and rating API
+- Top Links | Community based link sharing platform
+- Excelsior Express | Parcel tracking system with Android app
+- Chat App | Realtime group chat platform
+- EHMR | Electronic Health and Medical Record System
