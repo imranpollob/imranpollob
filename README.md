@@ -217,4 +217,7 @@
   <img src="https://img.shields.io/badge/Voice To Text Conversion-white?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E" />
 </a>
 
+
+![](/src/grow.gif)
+
 I love to talk about side projects. Let's be connected on Linkedin and have a chit-chat 💬 😃
