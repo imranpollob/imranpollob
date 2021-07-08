@@ -27,7 +27,18 @@
   <img src="https://img.shields.io/badge/pollmix-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  />
 </a>
 
-## ML Projects
+## Job Projects
+
+Seebiz
+Seebiz inventory
+Owl & Lark
+Cefalo Recruitment
+Volue Insight
+Excelsior express
+
+## Side Projects
+
+### Machine Learning + Data Science Projects
 
 <a href="https://github.com/pollmix/pytorch-chatbot">
   <img src="https://img.shields.io/badge/Sentiment Analysis-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
@@ -61,40 +72,51 @@
   <img src="https://img.shields.io/badge/COVID Data Analysis-white?style=flat&logo=r&logoColor=white&labelColor=276DC3" />
 </a>
 
-## Web Projects
+### Laravel Projects:
 
-<a href="https://github.com/pollmix/bangla-quran">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=revealdotjs&logoColor=white&label=Quran&labelColor=F2E142&message=Arabic and Bangla translation of whole Quran with audio&color=white" />
-</a>
+Paste Online - store and share notes https://paste.imranpollob.com
+https://github.com/pollmix/link-sharer
 
-<a href="https://www.volueinsight.com/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=python&logoColor=white&label=Wattsight&labelColor=3776AB&message=Forecasts and Consulting for the European Energy Market&color=white" />
-</a>
+### React Projects:
 
-<a href="https://www.seebiz.com/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=react&logoColor=white&label=SeeBiz&labelColor=61DAFB&message=Business Social Network&color=white" />
-</a>
+Coding - LeetCode HackerRank Codewars CodeSignal solutions https://code.imranpollob.com/
+Code Note - My notes for repetitive common searches. https://note.imranpollob.com/
+https://github.com/pollmix/reactive-github
+https://github.com/pollmix/react-lorem-ipsum
+https://github.com/pollmix/react-spelling-quiz
+https://github.com/pollmix/react-recipes
 
-<a href="https://devtut.github.io/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=vuedotjs&logoColor=white&label=DevTut&labelColor=4FC08D&message=Example based programming tutorials&color=white" />
-</a>
+### Vue Projects:
 
-<a href="https://code.imranpollob.com/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=nextdotjs&logoColor=white&label=Coding&labelColor=000000&message=LeetCode HackerRank Codewars CodeSignal solutions&color=white" />
-</a>
+https://github.com/devtut/devtut.github.io
+https://github.com/pollmix/vue-quiz
+vue forum https://github.com/pollmix/vue-firebase-forum
 
-<a href="https://spelling-test.netlify.app/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=react&logoColor=white&label=Spelling Quiz&labelColor=61DAFB&message=Learn difficult English spelling though quiz&color=white" />
-</a>
+### Node Projects:
 
-<a href="http://paste.imranpollob.com/">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=laravel&logoColor=white&label=Paste Online&labelColor=FF2D20&message=Store and share notes&color=white" />
-</a>
+https://github.com/pollmix/node-shop
+https://github.com/pollmix/chat-app
+https://github.com/pollmix/node-weather
+https://github.com/pollmix/node-note
 
-<a href="https://github.com/pollmix/movie-scrapper">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=python&logoColor=white&label=Movie Rating&labelColor=3776AB&message=Movie scrapper and rating API&color=white" />
-</a>
+### Python Projects:
 
-<a href="https://github.com/pollmix/link-sharer">
-  <img src="https://img.shields.io/static/v1?style=flat&logo=laravel&logoColor=white&label=Top Links&labelColor=FF2D20&message=Community based link sharing platform&color=white" />
-</a>
+Python News - Delivering the latest Python news and tutorials. https://twitter.com/python_news
+https://github.com/pollmix/movie-scrapper
+https://github.com/pollmix/mastering-numpy
+https://github.com/pollmix/youtube-video-timeframe-creator
+
+### Other Projects:
+
+https://github.com/pollmix/bangla-quran
+https://github.com/pollmix/my-php-mvc
+https://github.com/pollmix/black-screen
+https://github.com/pollmix/open-in-codesandbox-chrome-extension
+https://github.com/pollmix/oop-php
+https://github.com/pollmix/Ubuntu-Mint-Development-Environment-Setup
+https://github.com/pollmix/drumpad
+https://github.com/pollmix/voice-to-text
+https://github.com/pollmix/linux-wallpaper-changer
+https://github.com/pollmix/ehmr
+
+
