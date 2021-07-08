@@ -61,6 +61,10 @@
   <img src="https://img.shields.io/badge/Excelsior Express | Courier Service-white?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20" />
 </a>
 
+<a href="https://excelsior-express.net/">
+  <img src="https://img.shields.io/badge/Excelsior Express | Package Status-white?style=flat&logo=android&logoColor=white&labelColor=3DDC84" />
+</a>
+
 ## Side Projects:
 
 ### Machine Learning + Data Science Projects:
@@ -99,47 +103,118 @@
 
 ### Laravel Projects:
 
-Paste Online - store and share notes https://paste.imranpollob.com
-https://github.com/pollmix/link-sharer
+<a href="https://paste.imranpollob.com">
+  <img src="https://img.shields.io/badge/Paste Online | Store And Share Notes-white?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20" />
+</a>
+
+<a href="https://github.com/pollmix/link-sharer">
+  <img src="https://img.shields.io/badge/Community Based Link Sharer-white?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20" />
+</a>
 
 ### React Projects:
 
-Coding - LeetCode HackerRank Codewars CodeSignal solutions https://code.imranpollob.com/
-Code Note - My notes for repetitive common searches. https://note.imranpollob.com/
-https://github.com/pollmix/reactive-github
-https://github.com/pollmix/react-lorem-ipsum
-https://github.com/pollmix/react-spelling-quiz
-https://github.com/pollmix/react-recipes
+<a href="https://code.imranpollob.com/">
+  <img src="https://img.shields.io/badge/Coding | Leetcode Hackerrank Codewars Codesignal Solutions-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
+</a>
+
+<a href="https://note.imranpollob.com/">
+  <img src="https://img.shields.io/badge/Code Note | Notes For Repetitive Common Searches-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
+</a>
+
+<a href="https://github.com/pollmix/react-spelling-quiz">
+  <img src="https://img.shields.io/badge/Learn And Practice Common Spelling Mistakes-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
+</a>
+
+<a href="https://github.com/pollmix/reactive-github">
+  <img src="https://img.shields.io/badge/Github Clone Using React And Github API-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
+</a>
+
+<a href="https://github.com/pollmix/react-lorem-ipsum">
+  <img src="https://img.shields.io/badge/Lorem Ipsum Generator-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
+</a>
+
+<a href="https://github.com/pollmix/react-recipes">
+  <img src="https://img.shields.io/badge/Recipe App Using React Hooks-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
+</a>
 
 ### Vue Projects:
 
-https://github.com/devtut/devtut.github.io
-https://github.com/pollmix/vue-quiz
-vue forum https://github.com/pollmix/vue-firebase-forum
+<a href="https://github.com/devtut/devtut.github.io">
+  <img src="https://img.shields.io/badge/Example Based Programming Tutorials On 45+ Topics-white?style=flat&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
+</a>
+
+<a href="https://github.com/pollmix/vue-quiz">
+  <img src="https://img.shields.io/badge/Quiz App-white?style=flat&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
+</a>
+
+<a href="https://github.com/pollmix/vue-firebase-forum">
+  <img src="https://img.shields.io/badge/Vue Forum-white?style=flat&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
+</a>
 
 ### Node Projects:
 
-https://github.com/pollmix/node-shop
-https://github.com/pollmix/chat-app
-https://github.com/pollmix/node-weather
-https://github.com/pollmix/node-note
+<a href="https://github.com/pollmix/node-shop">
+  <img src="https://img.shields.io/badge/Ecommerce Using Node And Ejs-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
+</a>
+
+<a href="https://github.com/pollmix/chat-app">
+  <img src="https://img.shields.io/badge/Realtime Group Chat-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
+</a>
+
+<a href="https://github.com/pollmix/node-weather">
+  <img src="https://img.shields.io/badge/Command Line Weather App-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
+</a>
+
+<a href="https://github.com/pollmix/node-note">
+  <img src="https://img.shields.io/badge/Command Line Note Taking App-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
+</a>
 
 ### Python Projects:
 
-Python News - Delivering the latest Python news and tutorials. https://twitter.com/python_news
-https://github.com/pollmix/movie-scrapper
-https://github.com/pollmix/mastering-numpy
-https://github.com/pollmix/youtube-video-timeframe-creator
+<a href="https://twitter.com/python_news">
+  <img src="https://img.shields.io/badge/Python News Twitter Bot-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/movie-scrapper">
+  <img src="https://img.shields.io/badge/Movie Scrapper And Rating Api-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/mastering-numpy">
+  <img src="https://img.shields.io/badge/Mastering Numpy-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/youtube-video-timeframe-creator">
+  <img src="https://img.shields.io/badge/Youtube Video Timeframe Creator-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/linux-wallpaper-changer">
+  <img src="https://img.shields.io/badge/Linux Wallpaper Changer-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
 
 ### Other Projects:
 
-https://github.com/pollmix/bangla-quran
-https://github.com/pollmix/my-php-mvc
-https://github.com/pollmix/black-screen
-https://github.com/pollmix/open-in-codesandbox-chrome-extension
-https://github.com/pollmix/oop-php
-https://github.com/pollmix/Ubuntu-Mint-Development-Environment-Setup
-https://github.com/pollmix/drumpad
-https://github.com/pollmix/voice-to-text
-https://github.com/pollmix/linux-wallpaper-changer
-https://github.com/pollmix/ehmr
+<a href="https://github.com/pollmix/bangla-quran">
+  <img src="https://img.shields.io/badge/Arabic And Bangla Translation Of Whole Quran With Audio-white?style=flat&logo=revealdotjs&logoColor=white&labelColor=F2E142" />
+</a>
+
+<a href="https://github.com/pollmix/my-php-mvc">
+  <img src="https://img.shields.io/badge/PHP MVC Framework-white?style=flat&logo=php&logoColor=white&labelColor=777BB4" />
+</a>
+
+<a href="https://github.com/pollmix/black-screen">
+  <img src="https://img.shields.io/badge/Black Screen Online-white?style=flat&logo=html5&logoColor=white&labelColor=E34F26" />
+</a>
+
+<a href="https://github.com/pollmix/open-in-codesandbox-chrome-extension">
+  <img src="https://img.shields.io/badge/Open In Codesandbox Chrome Extension-white?style=flat&logo=googlechrome&logoColor=white&labelColor=4285F4" />
+</a>
+
+<a href="https://github.com/pollmix/drumpad">
+  <img src="https://img.shields.io/badge/Drumpad-white?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E" />
+</a>
+
+<a href="https://github.com/pollmix/voice-to-text">
+  <img src="https://img.shields.io/badge/Voice To Text Conversion-white?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E" />
+</a>
+
+I love to talk about side projects. Let's be connected on Linkedin and have a chit-chat 💬 😃
