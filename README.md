@@ -219,4 +219,4 @@
 
 ---
 
-I love to talk about side projects. Let's be connected on Linkedin and have a chit-chat 💬 😃
+I love to talk about side projects. Let's be connected on [Linkedin](https://www.linkedin.com/in/pollmix) and have a chit-chat 💬 😃
