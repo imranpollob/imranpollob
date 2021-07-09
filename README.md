@@ -101,6 +101,32 @@
   <img src="https://img.shields.io/badge/COVID Data Analysis-white?style=flat&logo=r&logoColor=white&labelColor=276DC3" />
 </a>
 
+### Python Projects:
+
+<a href="https://twitter.com/python_news">
+  <img src="https://img.shields.io/badge/Python News Twitter Bot-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/movie-scrapper">
+  <img src="https://img.shields.io/badge/Movie Scrapper And Rating Api-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/mastering-numpy">
+  <img src="https://img.shields.io/badge/Mastering Numpy-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/github-total-star-counter">
+  <img src="https://img.shields.io/badge/Github Total Star Counter-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/youtube-video-timeframe-creator">
+  <img src="https://img.shields.io/badge/Youtube Video Timeframe Creator-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
+<a href="https://github.com/pollmix/linux-wallpaper-changer">
+  <img src="https://img.shields.io/badge/Linux Wallpaper Changer-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
 ### Laravel Projects:
 
 <a href="https://paste.imranpollob.com">
@@ -167,28 +193,6 @@
 
 <a href="https://github.com/pollmix/node-note">
   <img src="https://img.shields.io/badge/Command Line Note Taking App-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
-</a>
-
-### Python Projects:
-
-<a href="https://twitter.com/python_news">
-  <img src="https://img.shields.io/badge/Python News Twitter Bot-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
-</a>
-
-<a href="https://github.com/pollmix/movie-scrapper">
-  <img src="https://img.shields.io/badge/Movie Scrapper And Rating Api-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
-</a>
-
-<a href="https://github.com/pollmix/mastering-numpy">
-  <img src="https://img.shields.io/badge/Mastering Numpy-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
-</a>
-
-<a href="https://github.com/pollmix/youtube-video-timeframe-creator">
-  <img src="https://img.shields.io/badge/Youtube Video Timeframe Creator-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
-</a>
-
-<a href="https://github.com/pollmix/linux-wallpaper-changer">
-  <img src="https://img.shields.io/badge/Linux Wallpaper Changer-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
 ### Other Projects:
