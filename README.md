@@ -97,7 +97,7 @@
   <img src="https://img.shields.io/badge/COVID Tracking-white?style=flat&logo=r&logoColor=white&labelColor=276DC3" />
 </a>
 
-<a href="https://github.com/pollmix/covid-tracking-using-r">
+<a href="https://github.com/pollmix/covid-analysis-using-r">
   <img src="https://img.shields.io/badge/COVID Data Analysis-white?style=flat&logo=r&logoColor=white&labelColor=276DC3" />
 </a>
 
