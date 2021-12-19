@@ -127,6 +127,11 @@
   <img src="https://img.shields.io/badge/Linux Wallpaper Changer-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
+
+<a href="https://github.com/pollmix/google-colab-torrent-downloader">
+  <img src="https://img.shields.io/badge/Google Colab Torrent Downloader-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
+</a>
+
 ### Laravel Projects:
 
 <a href="https://paste.imranpollob.com">
