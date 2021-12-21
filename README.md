@@ -19,12 +19,12 @@
   <img src="https://img.shields.io/badge/imranpollob.com-00D564?style=for-the-badge&logo=internetexplorer&logoColor=white"  />
 </a>
 
-<a href="https://www.linkedin.com/in/pollmix">
-  <img src="https://img.shields.io/badge/pollmix-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+<a href="https://www.linkedin.com/in/imranpollob">
+  <img src="https://img.shields.io/badge/imranpollob-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
 <a href="https://facebook.com/pollmix">
-  <img src="https://img.shields.io/badge/pollmix-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  />
+  <img src="https://img.shields.io/badge/imranpollob-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  />
 </a>
 
 ## Job Projects:
@@ -69,35 +69,35 @@
 
 ### Machine Learning + Data Science Projects:
 
-<a href="https://github.com/pollmix/pytorch-chatbot">
+<a href="https://github.com/imranpollob/pytorch-chatbot">
   <img src="https://img.shields.io/badge/Sentiment Analysis-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
-<a href="https://github.com/pollmix/sentiment-analysis">
+<a href="https://github.com/imranpollob/sentiment-analysis">
   <img src="https://img.shields.io/badge/Fake Handwritten Digits-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
-<a href="https://github.com/pollmix/fake-handwritten-digits">
+<a href="https://github.com/imranpollob/fake-handwritten-digits">
   <img src="https://img.shields.io/badge/Chatbot-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
-<a href="https://github.com/pollmix/ai-translation">
+<a href="https://github.com/imranpollob/ai-translation">
   <img src="https://img.shields.io/badge/AI Translation-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
-<a href="https://github.com/pollmix/predict-language-of-a-name">
+<a href="https://github.com/imranpollob/predict-language-of-a-name">
   <img src="https://img.shields.io/badge/Predict Language Of A Name-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
-<a href="https://github.com/pollmix/covid-detection-from-xray">
+<a href="https://github.com/imranpollob/covid-detection-from-xray">
   <img src="https://img.shields.io/badge/COVID Detection From Xray-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
-<a href="https://github.com/pollmix/covid-tracking-using-r">
+<a href="https://github.com/imranpollob/covid-tracking-using-r">
   <img src="https://img.shields.io/badge/COVID Tracking-white?style=flat&logo=r&logoColor=white&labelColor=276DC3" />
 </a>
 
-<a href="https://github.com/pollmix/covid-analysis-using-r">
+<a href="https://github.com/imranpollob/covid-analysis-using-r">
   <img src="https://img.shields.io/badge/COVID Data Analysis-white?style=flat&logo=r&logoColor=white&labelColor=276DC3" />
 </a>
 
@@ -107,28 +107,28 @@
   <img src="https://img.shields.io/badge/Python News Twitter Bot-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
-<a href="https://github.com/pollmix/movie-scrapper">
+<a href="https://github.com/imranpollob/movie-scrapper">
   <img src="https://img.shields.io/badge/Movie Scrapper And Rating Api-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
-<a href="https://github.com/pollmix/mastering-numpy">
+<a href="https://github.com/imranpollob/mastering-numpy">
   <img src="https://img.shields.io/badge/Mastering Numpy-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
-<a href="https://github.com/pollmix/github-total-star-counter">
+<a href="https://github.com/imranpollob/github-total-star-counter">
   <img src="https://img.shields.io/badge/Github Total Star Counter-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
-<a href="https://github.com/pollmix/youtube-video-timeframe-creator">
+<a href="https://github.com/imranpollob/youtube-video-timeframe-creator">
   <img src="https://img.shields.io/badge/Youtube Video Timeframe Creator-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
-<a href="https://github.com/pollmix/linux-wallpaper-changer">
+<a href="https://github.com/imranpollob/linux-wallpaper-changer">
   <img src="https://img.shields.io/badge/Linux Wallpaper Changer-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
 
-<a href="https://github.com/pollmix/google-colab-torrent-downloader">
+<a href="https://github.com/imranpollob/google-colab-torrent-downloader">
   <img src="https://img.shields.io/badge/Google Colab Torrent Downloader-white?style=flat&logo=python&logoColor=white&labelColor=3776AB" />
 </a>
 
@@ -138,7 +138,7 @@
   <img src="https://img.shields.io/badge/Paste Online | Store And Share Notes-white?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20" />
 </a>
 
-<a href="https://github.com/pollmix/link-sharer">
+<a href="https://github.com/imranpollob/link-sharer">
   <img src="https://img.shields.io/badge/Community Based Link Sharer-white?style=flat&logo=laravel&logoColor=white&labelColor=FF2D20" />
 </a>
 
@@ -152,19 +152,19 @@
   <img src="https://img.shields.io/badge/Code Note | Notes For Repetitive Common Searches-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
 </a>
 
-<a href="https://github.com/pollmix/react-spelling-quiz">
+<a href="https://github.com/imranpollob/react-spelling-quiz">
   <img src="https://img.shields.io/badge/Learn And Practice Common Spelling Mistakes-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
 </a>
 
-<a href="https://github.com/pollmix/reactive-github">
+<a href="https://github.com/imranpollob/reactive-github">
   <img src="https://img.shields.io/badge/Github Clone Using React And Github API-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
 </a>
 
-<a href="https://github.com/pollmix/react-lorem-ipsum">
+<a href="https://github.com/imranpollob/react-lorem-ipsum">
   <img src="https://img.shields.io/badge/Lorem Ipsum Generator-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
 </a>
 
-<a href="https://github.com/pollmix/react-recipes">
+<a href="https://github.com/imranpollob/react-recipes">
   <img src="https://img.shields.io/badge/Recipe App Using React Hooks-white?style=flat&logo=react&logoColor=white&labelColor=61DAFB" />
 </a>
 
@@ -174,58 +174,58 @@
   <img src="https://img.shields.io/badge/Example Based Programming Tutorials On 45+ Topics-white?style=flat&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
 </a>
 
-<a href="https://github.com/pollmix/vue-quiz">
+<a href="https://github.com/imranpollob/vue-quiz">
   <img src="https://img.shields.io/badge/Quiz App-white?style=flat&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
 </a>
 
-<a href="https://github.com/pollmix/vue-firebase-forum">
+<a href="https://github.com/imranpollob/vue-firebase-forum">
   <img src="https://img.shields.io/badge/Vue Forum-white?style=flat&logo=vuedotjs&logoColor=white&labelColor=4FC08D" />
 </a>
 
 ### Node Projects:
 
-<a href="https://github.com/pollmix/node-shop">
+<a href="https://github.com/imranpollob/node-shop">
   <img src="https://img.shields.io/badge/Ecommerce Using Node And Ejs-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
 </a>
 
-<a href="https://github.com/pollmix/chat-app">
+<a href="https://github.com/imranpollob/chat-app">
   <img src="https://img.shields.io/badge/Realtime Group Chat-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
 </a>
 
-<a href="https://github.com/pollmix/node-weather">
+<a href="https://github.com/imranpollob/node-weather">
   <img src="https://img.shields.io/badge/Command Line Weather App-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
 </a>
 
-<a href="https://github.com/pollmix/node-note">
+<a href="https://github.com/imranpollob/node-note">
   <img src="https://img.shields.io/badge/Command Line Note Taking App-white?style=flat&logo=nodedotjs&logoColor=white&labelColor=339933" />
 </a>
 
 ### Other Projects:
 
-<a href="https://github.com/pollmix/bangla-quran">
+<a href="https://github.com/imranpollob/bangla-quran">
   <img src="https://img.shields.io/badge/Arabic And Bangla Translation Of Whole Quran With Audio-white?style=flat&logo=revealdotjs&logoColor=white&labelColor=F2E142" />
 </a>
 
-<a href="https://github.com/pollmix/my-php-mvc">
+<a href="https://github.com/imranpollob/my-php-mvc">
   <img src="https://img.shields.io/badge/PHP MVC Framework-white?style=flat&logo=php&logoColor=white&labelColor=777BB4" />
 </a>
 
-<a href="https://github.com/pollmix/black-screen">
+<a href="https://github.com/imranpollob/black-screen">
   <img src="https://img.shields.io/badge/Black Screen Online-white?style=flat&logo=html5&logoColor=white&labelColor=E34F26" />
 </a>
 
-<a href="https://github.com/pollmix/open-in-codesandbox-chrome-extension">
+<a href="https://github.com/imranpollob/open-in-codesandbox-chrome-extension">
   <img src="https://img.shields.io/badge/Open In Codesandbox Chrome Extension-white?style=flat&logo=googlechrome&logoColor=white&labelColor=4285F4" />
 </a>
 
-<a href="https://github.com/pollmix/drumpad">
+<a href="https://github.com/imranpollob/drumpad">
   <img src="https://img.shields.io/badge/Drumpad-white?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E" />
 </a>
 
-<a href="https://github.com/pollmix/voice-to-text">
+<a href="https://github.com/imranpollob/voice-to-text">
   <img src="https://img.shields.io/badge/Voice To Text Conversion-white?style=flat&logo=javascript&logoColor=white&labelColor=F7DF1E" />
 </a>
 
 ---
 
-I love to talk about side projects. Let's be connected on [Linkedin](https://www.linkedin.com/in/pollmix) and have a chit-chat 💬 😃
+I love to talk about side projects. Let's be connected on [Linkedin](https://www.linkedin.com/in/imranpollob) and have a chit-chat 💬 😃
