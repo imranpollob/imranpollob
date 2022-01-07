@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/imranpollob-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-<a href="https://facebook.com/pollmix">
+<a href="https://facebook.com/imranpollob7">
   <img src="https://img.shields.io/badge/imranpollob-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  />
 </a>
 
