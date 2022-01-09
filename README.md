@@ -70,15 +70,15 @@
 ### Machine Learning + Data Science Projects:
 
 <a href="https://github.com/imranpollob/pytorch-chatbot">
-  <img src="https://img.shields.io/badge/Sentiment Analysis-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Chatbot-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/imranpollob/sentiment-analysis">
-  <img src="https://img.shields.io/badge/Fake Handwritten Digits-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Sentiment Analysis-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/imranpollob/fake-handwritten-digits">
-  <img src="https://img.shields.io/badge/Chatbot-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Fake Handwritten Digits-white?style=flat&logo=pytorch&logoColor=white&labelColor=EE4C2C" />
 </a>
 
 <a href="https://github.com/imranpollob/ai-translation">
