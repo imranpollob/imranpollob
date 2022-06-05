@@ -6,6 +6,9 @@
 - 🎓 Currently, I'm a PhD student focused on Blockchain
 - 💗 Love to work on side projects
 
+I started my career with PHP, and later I have worked professionally with Python, JavaScript, Node, React, and VueJS. I love to explore different technologies, read various blogs and watch random videos on youtube. I am doing research on Blockchain technology, mainly working on the scalability and security part.
+
+
 ### Let's be connected <img src="./src/handshake-small.gif">
 
 <a href="mailto:imranpollob.iitju@gmail.com">
