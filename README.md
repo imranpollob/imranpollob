@@ -1,4 +1,4 @@
-# <img width="30px" src="./src/hi.gif" /> Hi there, I'm Imran Pollob
+# <img src="./src/hi-small.gif" /> Hi there, I'm Imran Pollob
 
 <img align="right" alt="imran pollob" height="160px" src="./src/imran-pollob.png"/>
 
@@ -9,7 +9,7 @@
 - 🎓 Got PhD admission @USA on Computational Biology
 - 💗 Love to work on side projects
 
-### Let's be connected <img src="https://media.tenor.com/images/ed9e1f0647aaa26fcefd9b4a11fc05c7/tenor.gif" width="30px">
+### Let's be connected <img src="./src/handshake-small.gif">
 
 <a href="mailto:imranpollob.iitju@gmail.com">
   <img src="https://img.shields.io/badge/imranpollob.iitju@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
