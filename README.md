@@ -2,14 +2,14 @@
 
 <img align="right" alt="imran pollob" height="160px" src="./src/imran-pollob.png"/>
 
-- 💻 I have 4+ years of experience in software engineering
-- 🎓 Currently, I'm a PhD student focused on Blockchain
-- 💗 Love to work on side projects
+- 💻 I have over 5 years of experience in software engineering.
+- 🎓 I'm currently a PhD student focused on Blockchain Security.
+- 💗 I love working on side projects.
 
-I started my career with PHP, and later I have worked professionally with Python, JavaScript, Node, React, and VueJS. I love to explore different technologies, read various blogs and watch random videos on youtube. I am doing research on Blockchain technology, mainly working on the scalability and security part.
+I started my career with PHP and later worked professionally with Python, JavaScript, Node.js, React, and Vue.js. I enjoy exploring different technologies, reading various blogs, and watching videos on YouTube. My research is centered on Blockchain Security, with a focus on vulnerability detection on Solidity code.
 
 
-### Let's be connected <img src="./src/handshake-small.gif">
+### Let's get connected <img src="./src/handshake-small.gif">
 
 <a href="mailto:imranpollob.iitju@gmail.com">
   <img src="https://img.shields.io/badge/imranpollob.iitju@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"  />
@@ -23,9 +23,7 @@ I started my career with PHP, and later I have worked professionally with Python
   <img src="https://img.shields.io/badge/imranpollob-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-<a href="https://facebook.com/imranpollob7">
-  <img src="https://img.shields.io/badge/imranpollob-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  />
-</a>
+
 
 ### Have a look at my projects
 
@@ -243,4 +241,4 @@ I started my career with PHP, and later I have worked professionally with Python
 
 ---
 
-I love to talk about side projects. Let's be connected on [Linkedin](https://www.linkedin.com/in/imranpollob) and have a chit-chat 💬 😃
+I love talking about side projects. Let's connect on [Linkedin](https://www.linkedin.com/in/imranpollob) and have a chit-chat 💬 😃
