@@ -6,7 +6,7 @@
 - 🎓 I'm currently a PhD student focused on Blockchain Security.
 - 💗 I love working on side projects.
 
-I started my career with PHP and later worked professionally with Python, JavaScript, Node.js, React, and Vue.js. I enjoy exploring different technologies, reading various blogs, and watching videos on YouTube. My research is centered on Blockchain Security, with a focus on vulnerability detection on Solidity code.
+I started my career with PHP and later worked professionally with Python, JavaScript, Node.js, React, and Vue.js. I enjoy exploring different technologies, reading various blogs, and watching videos on YouTube. My research is centered on Blockchain Security, with a focus on vulnerability detection in Solidity code.
 
 
 ### Let's get connected <img src="./src/handshake-small.gif">
