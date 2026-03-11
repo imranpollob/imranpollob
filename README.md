@@ -38,7 +38,10 @@ AWS, Azure, Docker, CI/CD, Linux
 
 ---
 
-## 💼 Experience
+<details>
+<summary><strong>💼 Experience</strong></summary>
+
+<br />
 
 ### Wayne State University
 *PhD Researcher | 2021 - Present*
@@ -58,9 +61,14 @@ AWS, Azure, Docker, CI/CD, Linux
 *Software Engineer | 2016 - 2018*
 - Developed a school management system used across 20+ institutions, streamlining student and teacher administration, fee processing, course management, attendance, grading, and automated parental notifications
 
+</details>
+
 ---
 
-## 🎓 Education
+<details>
+<summary><strong>🎓 Education</strong></summary>
+
+<br />
 
 🎓 **PhD in Computer Science** — Wayne State University *(3.87 / 4.0)* `2021 - Now`
 
@@ -68,9 +76,14 @@ AWS, Azure, Docker, CI/CD, Linux
 
 🎓 **BSc in Information Technology** — Jahangirnagar University *(3.62 / 4.0)* `2012 - 2015`
 
+</details>
+
 ---
 
-## 🌟 Flagship Projects
+<details>
+<summary><strong>🌟 Flagship Projects</strong></summary>
+
+<br />
 
 ### Blockchain & Web3
 
@@ -80,6 +93,17 @@ AWS, Azure, Docker, CI/CD, Linux
 
 🔗 [**Swap - Decentralized Exchange**](https://github.com/imranpollob/swap) — Uniswap-style constant-product AMM with CREATE2 deployment, multi-hop routing, and TWAP oracle
 
+<details>
+<summary>📂 More Projects</summary>
+
+🔗 [**DAO - Community Grants Governance**](https://github.com/imranpollob/dao) — OpenZeppelin Governor + Timelock DAO for proposing, voting, and executing ETH/ERC20 grants with treasury and vesting
+
+🔗 [**Foundry Fund Me**](https://github.com/imranpollob/foundry-fund-me) — Chainlink price-feed-backed crowdfunding dApp with USD minimum contribution, Foundry tests, and React frontend
+
+🔗 [**Solidity AST Generator**](https://github.com/imranpollob/ast-generator) — Parses Solidity source into an AST with node highlighting, traversal path display, and pinnable tree comparison
+
+</details>
+
 ### AI & Intelligent Systems
 
 🤖 [**AI Multi-Agent Trading System**](https://github.com/imranpollob/ai-trading) — Four autonomous trader agents (Buffett/Soros/Dalio/Wood styles) with OpenAI Agents SDK and Gradio dashboard
@@ -87,6 +111,18 @@ AWS, Azure, Docker, CI/CD, Linux
 🤖 [**Multi-PDF RAG Chatbot**](https://github.com/imranpollob/multi-pdf-rag-chatbot) — Ingests PDFs, indexes embeddings in ChromaDB, runs LangChain RAG pipeline with Streamlit UI
 
 🤖 [**Deal Finder AI**](https://github.com/imranpollob/deal-finder-ai) — Multi-agent deal discovery with LLM-based estimation, Random Forest ensemble, and push alerts
+
+<details>
+<summary>📂 More Projects</summary>
+
+🤖 [**Bitcoin Price Prediction AI**](https://github.com/imranpollob/bitcoin-price-prediction-ai) — Trains and compares seven deep-learning/forecasting models for 7-day Bitcoin price projections
+
+🤖 [**Food Detector AI**](https://github.com/imranpollob/food-detector-ai) — Food image classifier comparing EfficientNet-B2 and ViT models with training scripts and Gradio inference UI
+
+🤖 [**Tiny Diffusion Model**](https://github.com/imranpollob/tiny-diffusion) — Educational DDPM implementation with U-Net training, diffusion visualization, and image sampling
+
+
+</details>
 
 ### Full-Stack & Software Architecture
 
@@ -96,28 +132,8 @@ AWS, Azure, Docker, CI/CD, Linux
 
 🚀 [**Bangla Quran**](https://github.com/imranpollob/bangla-quran) — All 114 surahs with Arabic text, Bangla translation, recitation audio, and multiple reading modes
 
----
-
 <details>
 <summary>📂 More Projects</summary>
-
-#### Blockchain & Web3
-
-🔗 [**DAO - Community Grants Governance**](https://github.com/imranpollob/dao) — OpenZeppelin Governor + Timelock DAO for proposing, voting, and executing ETH/ERC20 grants with treasury and vesting
-
-🔗 [**Foundry Fund Me**](https://github.com/imranpollob/foundry-fund-me) — Chainlink price-feed-backed crowdfunding dApp with USD minimum contribution, Foundry tests, and React frontend
-
-🔗 [**Solidity AST Generator**](https://github.com/imranpollob/ast-generator) — Parses Solidity source into an AST with node highlighting, traversal path display, and pinnable tree comparison
-
-#### AI & Intelligent Systems
-
-🤖 [**Bitcoin Price Prediction AI**](https://github.com/imranpollob/bitcoin-price-prediction-ai) — Trains and compares seven deep-learning/forecasting models for 7-day Bitcoin price projections
-
-🤖 [**Food Detector AI**](https://github.com/imranpollob/food-detector-ai) — Food image classifier comparing EfficientNet-B2 and ViT models with training scripts and Gradio inference UI
-
-🤖 [**Tiny Diffusion Model**](https://github.com/imranpollob/tiny-diffusion) — Educational DDPM implementation with U-Net training, diffusion visualization, and image sampling
-
-#### Full-Stack & Tools
 
 🚀 [**Task Time Tracker**](https://github.com/imranpollob/task-time-tracker) — Daily task and time tracking with authenticated API integration and dashboard UI
 
@@ -133,9 +149,16 @@ AWS, Azure, Docker, CI/CD, Linux
 
 </details>
 
+
+
+</details>
+
 ---
 
-## 📜 Certifications
+<details>
+<summary><strong>📜 Certifications</strong></summary>
+
+<br />
 
 **Blockchain & Security**
 
@@ -148,8 +171,12 @@ AWS, Azure, Docker, CI/CD, Linux
 **AI & Machine Learning**
 
 📜 [IBM Generative AI Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/VCI51YJT40UL) 
+
 📜 [IBM RAG and Agentic AI](https://www.coursera.org/account/accomplishments/specialization/certificate/9T9ZY7QU9A4G) 
+
 📜 [Microsoft AI & ML Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/9ZRZI7NIJCI0)
+
+</details>
 
 ---
 
